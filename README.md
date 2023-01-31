@@ -37,7 +37,7 @@ Download the files from Github and install the virtual environment
 ```
 $ cd ~/
 $ git clone https://github.com/lamsd/websockets-scryto
-$ cd tutorials-websockets
+$ cd websockets-scryto
 $ pipenv install
 $ pipenv shell
 $ cd part_3
@@ -271,16 +271,6 @@ python main.py
 ```
 
 
-
-
-
-
-
-
-
-
 ---
 
 The code for this tutorial can be found on [Github](https://github.com/lamsd/websockets-scryto)!
-
-This tutorial was written by @juliank.
